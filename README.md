@@ -7,7 +7,7 @@
 ```shell
 git clone https://github.com/cenkayla/shorturl.git
 cd shorturl
-go run main.go
+sudo docker-compose up -d
 ```
 
 # Usage
